@@ -22,6 +22,10 @@ f. Do some changes on Price filter range
 g. Click on the BookNow of First flight
 h. Print the Price summary on next page
 
+Ruby 
+A. Dafasdasdasd
+B. Dasdadas
+
 Java 
 
 4. 
