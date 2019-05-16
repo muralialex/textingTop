@@ -1,0 +1,33 @@
+Selenium
+
+1.
+a. Goto https://www.irctc.co.in/eticketing/loginHome.jsf
+b. Goto Holidays-> Special Train-> Tourist train
+c. Click on the second package in next window
+d. Print the package name from the Table displayed
+e. Close the Second window and goto First window
+f. Click on the Calendar from “Book your calendar” in the First window
+g. Select tomorrow’s date on the calendar
+h. Click on “Find Trains” button and capture the error message displayed.
+
+2. 
+a. Goto https://www.easemytrip.com/
+b. Clear the From textbox and enter a value
+c. Clear the To textbox and enter a value
+d. Click on Departure Date and click on current date on calendar
+f. Click on Return Date and click on tomorrow’s date on calendar
+g. Select 2 Adults and 1 children in “Travellers Economy” dropdown
+h. Click on Search button and verify for the Flights are loaded in the page
+f. Do some changes on Price filter range
+g. Click on the BookNow of First flight
+h. Print the Price summary on next page
+
+Java 
+
+4. 
+a. 1st 8 will be even numbers 
+b. Next 8 will be odd numbers
+c. After 16 numbers. 64 will be added continuously for every 16th number
+
+[0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13, 15, 64, 66, 68, 70, 72, 74, 76, 78, 65, 67, 69, 71, 73, 75, 77, 79, 128, 130, 132, 134, 136, 138, 140, 142, 129, 131, 133, 135, 137, 139, 141, 143, 192, 194, 196, 198, 200, 202, 204, 206, 193, 195, 197, 199, 201, 203, 205, 207, 256, 258, 260, 262, 264, 266, 268, 270, 257, 259, 261, 263, 265, 267, 269, 271, 320, 322, 324, 326, 328, 330, 332, 334, 321, 323, 325, 327, 329, 331, 333, 335, 384, 386, 388, 390, 392, 394, 396, 398, 385, 387, 389, 391, 393, 395, 397, 399, 448, 450, 452, 454, 456, 458, 460, 462, 449, 451, 453, 455, 457, 459, 461, 463, 512,...]
+
